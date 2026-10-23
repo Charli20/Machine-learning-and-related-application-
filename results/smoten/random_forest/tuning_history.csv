@@ -1,0 +1,21 @@
+Model,Parameters,Mean F1,F1 Std
+Random Forest,"{'n_estimators': 200, 'min_samples_split': 5, 'max_features': 'sqrt', 'max_depth': 5}",0.4690008791231303,0.012014678675440774
+Random Forest,"{'n_estimators': 500, 'min_samples_split': 10, 'max_features': 'sqrt', 'max_depth': None}",0.3773008829202172,0.032837034680183126
+Random Forest,"{'n_estimators': 100, 'min_samples_split': 2, 'max_features': 'sqrt', 'max_depth': 10}",0.43141030852092194,0.021202995091164693
+Random Forest,"{'n_estimators': 100, 'min_samples_split': 2, 'max_features': 'sqrt', 'max_depth': 5}",0.470560478208404,0.014741881287396614
+Random Forest,"{'n_estimators': 200, 'min_samples_split': 2, 'max_features': 'log2', 'max_depth': 10}",0.4322537420505303,0.024469795480123565
+Random Forest,"{'n_estimators': 500, 'min_samples_split': 5, 'max_features': 'log2', 'max_depth': 20}",0.3780365346587788,0.03577860281423899
+Random Forest,"{'n_estimators': 200, 'min_samples_split': 2, 'max_features': 'log2', 'max_depth': 5}",0.46822993295763815,0.012499257029759714
+Random Forest,"{'n_estimators': 200, 'min_samples_split': 10, 'max_features': 'log2', 'max_depth': 10}",0.4310936750824908,0.02464642174757152
+Random Forest,"{'n_estimators': 100, 'min_samples_split': 5, 'max_features': 'log2', 'max_depth': 5}",0.46961734458065274,0.014001778732798757
+Random Forest,"{'n_estimators': 100, 'min_samples_split': 2, 'max_features': 'sqrt', 'max_depth': None}",0.37837460411420915,0.027908146536597126
+Random Forest,"{'n_estimators': 500, 'min_samples_split': 2, 'max_features': 'log2', 'max_depth': 20}",0.37494252581283016,0.032620711510130525
+Random Forest,"{'n_estimators': 200, 'min_samples_split': 5, 'max_features': 'log2', 'max_depth': 10}",0.4333709646072329,0.024942970507737725
+Random Forest,"{'n_estimators': 100, 'min_samples_split': 2, 'max_features': 'log2', 'max_depth': 5}",0.470560478208404,0.014741881287396614
+Random Forest,"{'n_estimators': 100, 'min_samples_split': 2, 'max_features': 'log2', 'max_depth': 20}",0.37859947109271896,0.028419306733904116
+Random Forest,"{'n_estimators': 500, 'min_samples_split': 5, 'max_features': 'sqrt', 'max_depth': 5}",0.46333055161800873,0.014797769739170585
+Random Forest,"{'n_estimators': 200, 'min_samples_split': 5, 'max_features': 'sqrt', 'max_depth': 10}",0.4333709646072329,0.024942970507737725
+Random Forest,"{'n_estimators': 500, 'min_samples_split': 2, 'max_features': 'sqrt', 'max_depth': None}",0.3767879459631385,0.031564916430907544
+Random Forest,"{'n_estimators': 200, 'min_samples_split': 5, 'max_features': 'log2', 'max_depth': 20}",0.3782610224933731,0.03638524769284042
+Random Forest,"{'n_estimators': 100, 'min_samples_split': 10, 'max_features': 'log2', 'max_depth': 10}",0.4314794533593421,0.025180088263029976
+Random Forest,"{'n_estimators': 100, 'min_samples_split': 5, 'max_features': 'sqrt', 'max_depth': 20}",0.37935673306754264,0.03382665540112253

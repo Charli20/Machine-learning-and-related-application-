@@ -1,0 +1,171 @@
+{
+  "Model": "Logistic Regression",
+  "Best Parameters": {
+    "C": 0.01,
+    "penalty": "l1",
+    "solver": "saga"
+  },
+  "Best CV F1": 0.4715860186642645,
+  "Search History": [
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 0.01,
+        "penalty": "l1",
+        "solver": "liblinear"
+      },
+      "Mean F1": 0.4656734126047638,
+      "F1 Std": 0.015267580171859339
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 0.01,
+        "penalty": "l1",
+        "solver": "saga"
+      },
+      "Mean F1": 0.4715860186642645,
+      "F1 Std": 0.021110408556251677
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 0.01,
+        "penalty": "l2",
+        "solver": "liblinear"
+      },
+      "Mean F1": 0.46149995547305356,
+      "F1 Std": 0.012268863893827002
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 0.01,
+        "penalty": "l2",
+        "solver": "saga"
+      },
+      "Mean F1": 0.4655749015041376,
+      "F1 Std": 0.015257026923902801
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 0.1,
+        "penalty": "l1",
+        "solver": "liblinear"
+      },
+      "Mean F1": 0.44497924474499007,
+      "F1 Std": 0.012325689915139335
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 0.1,
+        "penalty": "l1",
+        "solver": "saga"
+      },
+      "Mean F1": 0.44760206826773674,
+      "F1 Std": 0.009676440190701236
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 0.1,
+        "penalty": "l2",
+        "solver": "liblinear"
+      },
+      "Mean F1": 0.45088060735862223,
+      "F1 Std": 0.006541388899548033
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 0.1,
+        "penalty": "l2",
+        "solver": "saga"
+      },
+      "Mean F1": 0.44862582076648144,
+      "F1 Std": 0.008492586451565896
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 1,
+        "penalty": "l1",
+        "solver": "liblinear"
+      },
+      "Mean F1": 0.4376833056437411,
+      "F1 Std": 0.011630504020924606
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 1,
+        "penalty": "l1",
+        "solver": "saga"
+      },
+      "Mean F1": 0.43710359000752214,
+      "F1 Std": 0.011298173022056488
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 1,
+        "penalty": "l2",
+        "solver": "liblinear"
+      },
+      "Mean F1": 0.4385579830655443,
+      "F1 Std": 0.010730985347357126
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 1,
+        "penalty": "l2",
+        "solver": "saga"
+      },
+      "Mean F1": 0.43857609185922525,
+      "F1 Std": 0.011115913691856548
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 10,
+        "penalty": "l1",
+        "solver": "liblinear"
+      },
+      "Mean F1": 0.43634741316275133,
+      "F1 Std": 0.010919259439034282
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 10,
+        "penalty": "l1",
+        "solver": "saga"
+      },
+      "Mean F1": 0.4358620376760875,
+      "F1 Std": 0.010772175671521608
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 10,
+        "penalty": "l2",
+        "solver": "liblinear"
+      },
+      "Mean F1": 0.4366290886593462,
+      "F1 Std": 0.011042914782186348
+    },
+    {
+      "Model": "Logistic Regression",
+      "Parameters": {
+        "C": 10,
+        "penalty": "l2",
+        "solver": "saga"
+      },
+      "Mean F1": 0.4366290886593462,
+      "F1 Std": 0.011042914782186348
+    }
+  ]
+}

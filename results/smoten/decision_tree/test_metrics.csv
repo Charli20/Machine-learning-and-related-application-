@@ -1,0 +1,2 @@
+Model,Source,Accuracy,Precision,Recall,F1-score,F2-score,Balanced Accuracy,AUROC,PR-AUC,Average Precision (AP),Test respondents,Correct predictions,Wrong predictions,Correct (%),Wrong (%),True negatives,False positives,False negatives,True positives
+Decision Tree,Our Model,0.6850044365572315,0.3161764705882353,0.6292682926829268,0.42088091353996737,0.5252442996742671,0.6633326279032856,0.7313158033966457,0.42763243318406247,0.35786292796591124,1127,772,355,68.50044365572316,31.49955634427684,643,279,76,129

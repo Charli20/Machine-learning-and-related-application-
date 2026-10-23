@@ -1,0 +1,1309 @@
+{
+  "Model": "CatBoost",
+  "Best Parameters": {
+    "depth": 5,
+    "iterations": 200,
+    "l2_leaf_reg": 3,
+    "learning_rate": 0.01,
+    "subsample": 1.0
+  },
+  "Best CV F1": 0.48027472307428487,
+  "Search History": [
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4541284581566358,
+      "F1 Std": 0.023688937086275175
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.45606567184096036,
+      "F1 Std": 0.025024055656230625
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4753527131609817,
+      "F1 Std": 0.022987366404133902
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.479935368247354,
+      "F1 Std": 0.023587464624483558
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.47054015861519255,
+      "F1 Std": 0.02182715070713267
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.46840070033233844,
+      "F1 Std": 0.01966846759572008
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4550974812511366,
+      "F1 Std": 0.023140309861113845
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4559712504239637,
+      "F1 Std": 0.02572260961782271
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4735854531346975,
+      "F1 Std": 0.020664690996765777
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.47553602403716766,
+      "F1 Std": 0.024879032070150967
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4703252976479358,
+      "F1 Std": 0.02217167272002598
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4645034527460923,
+      "F1 Std": 0.02244839270569974
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.46815733848873586,
+      "F1 Std": 0.019244607909088832
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.46657826911808337,
+      "F1 Std": 0.020955684899581797
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4651606358703712,
+      "F1 Std": 0.023559402821875502
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4666219678025443,
+      "F1 Std": 0.02313968966042987
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4508201951460671,
+      "F1 Std": 0.02919400777678528
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4459982403637432,
+      "F1 Std": 0.026503151264334602
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.46653087810603766,
+      "F1 Std": 0.019705384400926364
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.46864536942410195,
+      "F1 Std": 0.020669525893463263
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4697836687024936,
+      "F1 Std": 0.022768259115222383
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.46462026647813703,
+      "F1 Std": 0.021566689950146437
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.456069642020152,
+      "F1 Std": 0.025508712786696003
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4492818040807983,
+      "F1 Std": 0.025174399481010974
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.47609678925682103,
+      "F1 Std": 0.023487842249089574
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4722142861359693,
+      "F1 Std": 0.021254204802613128
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4614959441869976,
+      "F1 Std": 0.021988400914752383
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.46179295359562766,
+      "F1 Std": 0.02174760166063742
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4400561476947778,
+      "F1 Std": 0.02398115930378876
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4374242256969886,
+      "F1 Std": 0.020571400531631194
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4722083472916537,
+      "F1 Std": 0.021125937548812822
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4735449877647254,
+      "F1 Std": 0.021183019002970302
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4643208801574428,
+      "F1 Std": 0.0220080349672299
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4690221030689594,
+      "F1 Std": 0.02049713173232181
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4432549473205844,
+      "F1 Std": 0.025868236948528637
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 3,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.43873154451646706,
+      "F1 Std": 0.022661383379269727
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4690771818662601,
+      "F1 Std": 0.022832522045000574
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.46649424118413785,
+      "F1 Std": 0.02096380957115142
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.46546847838809313,
+      "F1 Std": 0.020401717945964674
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4679816953583854,
+      "F1 Std": 0.01194077336432396
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.45122015381858543,
+      "F1 Std": 0.021273268757803793
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4552488137958498,
+      "F1 Std": 0.018934904947398495
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.46754585716745434,
+      "F1 Std": 0.019810086756131357
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.46084659489354995,
+      "F1 Std": 0.026024391911114313
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.46567714048856895,
+      "F1 Std": 0.01671146187167442
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4630020270715843,
+      "F1 Std": 0.013285714086085665
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4557039905206203,
+      "F1 Std": 0.014088526576809122
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.46067566290914314,
+      "F1 Std": 0.015225884395085149
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4733330075141754,
+      "F1 Std": 0.021068193673130623
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.48027472307428487,
+      "F1 Std": 0.022256421371699614
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4543066351090026,
+      "F1 Std": 0.019302027207660416
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.45841185033996873,
+      "F1 Std": 0.024334845385451262
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4360461099076528,
+      "F1 Std": 0.023268876589793076
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4302591354115556,
+      "F1 Std": 0.02248158248698611
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.47601662040389064,
+      "F1 Std": 0.022722656213118027
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.47716408472383004,
+      "F1 Std": 0.023217139275329767
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4555134894324263,
+      "F1 Std": 0.025575554148276447
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.46157454834352035,
+      "F1 Std": 0.026272609104078366
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.44164900413020575,
+      "F1 Std": 0.02631232404919789
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.44182376083304453,
+      "F1 Std": 0.018104243052296864
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4793292427019417,
+      "F1 Std": 0.01967400386400345
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4760121427546259,
+      "F1 Std": 0.017753507600477947
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.44494929902030594,
+      "F1 Std": 0.024229776232034962
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.44829459980918135,
+      "F1 Std": 0.022643370388169257
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4302125724700182,
+      "F1 Std": 0.03388775606458818
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.430462868335982,
+      "F1 Std": 0.02810254555395481
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4769261718572505,
+      "F1 Std": 0.021371315062404823
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4782632486772081,
+      "F1 Std": 0.022028785890300093
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.44722233864435995,
+      "F1 Std": 0.019027042332782816
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4463101202147294,
+      "F1 Std": 0.020486236665369632
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4283365028595824,
+      "F1 Std": 0.02565234326792813
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 5,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4275313798060735,
+      "F1 Std": 0.02595893159457303
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.468729112806189,
+      "F1 Std": 0.016849893699925227
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.47406713723086363,
+      "F1 Std": 0.019422362822788666
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4660767717171056,
+      "F1 Std": 0.01876957453573736
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.45403550674533655,
+      "F1 Std": 0.021633504190058276
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4459897669063412,
+      "F1 Std": 0.024110232084531617
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.44465273689292417,
+      "F1 Std": 0.02328352915754129
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4665065105894525,
+      "F1 Std": 0.018319090141586707
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4731460140553577,
+      "F1 Std": 0.016175197684051845
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.46581871125117474,
+      "F1 Std": 0.015683853205805034
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.46122306336459484,
+      "F1 Std": 0.014105055854220637
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.44693714435812704,
+      "F1 Std": 0.029140872645101342
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 100,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4471077103581277,
+      "F1 Std": 0.025661169329068353
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4742167366782882,
+      "F1 Std": 0.015192569890002467
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4747576994038609,
+      "F1 Std": 0.019752967393707303
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4478977324373041,
+      "F1 Std": 0.022763199092983622
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4411684456989381,
+      "F1 Std": 0.025988742865009514
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4185062174510737,
+      "F1 Std": 0.03376144324174406
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.430737912795309,
+      "F1 Std": 0.029400978723217664
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.47670168609669644,
+      "F1 Std": 0.0151945511256133
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4749952829639129,
+      "F1 Std": 0.01849692432086675
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4461330467183092,
+      "F1 Std": 0.026732976650209562
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.44586958470528026,
+      "F1 Std": 0.022297425609299325
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.41638761249000034,
+      "F1 Std": 0.02668192152831209
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 200,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4258895287931798,
+      "F1 Std": 0.02949573190669769
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.46723480274172946,
+      "F1 Std": 0.015466716071322589
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4661466178641193,
+      "F1 Std": 0.016309786165248752
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4337977734783336,
+      "F1 Std": 0.026675105262460714
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.4353571409351938,
+      "F1 Std": 0.025425537343573126
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.3937752724217908,
+      "F1 Std": 0.0297490663500439
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 3,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.40435609448696186,
+      "F1 Std": 0.030072763899487664
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4696983796145938,
+      "F1 Std": 0.01927000720003207
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.01,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.46675704910647664,
+      "F1 Std": 0.011899650506745628
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.43935698959584146,
+      "F1 Std": 0.03169950129493381
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.05,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.43528571379103126,
+      "F1 Std": 0.022223038954567183
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 0.8
+      },
+      "Mean F1": 0.4053756646423663,
+      "F1 Std": 0.03179040680570321
+    },
+    {
+      "Model": "CatBoost",
+      "Parameters": {
+        "depth": 7,
+        "iterations": 300,
+        "l2_leaf_reg": 5,
+        "learning_rate": 0.1,
+        "subsample": 1.0
+      },
+      "Mean F1": 0.41005857243073135,
+      "F1 Std": 0.02950371342331492
+    }
+  ]
+}

@@ -1,0 +1,2 @@
+Model,Source,Accuracy,Precision,Recall,F1-score,AUROC,PR-AUC,Test respondents,Correct predictions,Wrong predictions,Correct (%),Wrong (%),True negatives,False positives,False negatives,True positives
+Gradient Boosting,Our Model,0.7630878438331854,0.41040462427745666,0.6926829268292682,0.515426497277677,0.7910983545844135,0.4313934845392784,1127,860,267,76.30878438331854,23.691215616681454,718,204,63,142

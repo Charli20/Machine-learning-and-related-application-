@@ -1,0 +1,9 @@
+{
+  "Model": "KNN",
+  "Best Parameters": {
+    "n_neighbors": 9,
+    "p": 2,
+    "weights": "uniform"
+  },
+  "Best CV F1": 0.3835013403711699
+}

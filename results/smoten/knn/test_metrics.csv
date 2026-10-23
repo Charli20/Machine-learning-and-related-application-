@@ -1,0 +1,2 @@
+Model,Source,Accuracy,Precision,Recall,F1-score,F2-score,Balanced Accuracy,AUROC,PR-AUC,Average Precision (AP),Test respondents,Correct predictions,Wrong predictions,Correct (%),Wrong (%),True negatives,False positives,False negatives,True positives
+KNN,Our Model,0.7959183673469388,0.40601503759398494,0.2634146341463415,0.31952662721893493,0.2833158447009444,0.588865668483149,0.725265858949262,0.35249315221942384,0.3317072871458839,1127,897,230,79.59183673469387,20.408163265306122,843,79,151,54

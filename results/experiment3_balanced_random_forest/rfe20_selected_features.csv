@@ -1,0 +1,101 @@
+fold,feature
+1,age_group_18-24
+1,age_group_25-34
+1,age_group_35-44
+1,age_group_55-64
+1,age_group_65+
+1,race_ethnicity_Black
+1,race_ethnicity_Hispanic
+1,race_ethnicity_Other
+1,income_group_100-200k
+1,income_group_200k+
+1,health_insurance_Not insured
+1,bmi_category_Normal
+1,bmi_category_Obese
+1,bmi_category_Underweight
+1,general_health_Good/better
+1,smoking_status_Every day
+1,alcohol use_Yes
+1,high blood pressure_No
+1,high cholesterol_No
+1,comorbidity_count_3+
+2,age_group_18-24
+2,age_group_25-34
+2,age_group_35-44
+2,race_ethnicity_Black
+2,race_ethnicity_Hispanic
+2,race_ethnicity_Other
+2,income_group_35-50k
+2,bmi_category_Normal
+2,bmi_category_Obese
+2,bmi_category_Underweight
+2,general_health_Good/better
+2,poor_physical_health_0
+2,poor_physical_health_14+
+2,smoking_status_Every day
+2,alcohol use_Yes
+2,physical_activity_Yes
+2,high blood pressure_No
+2,high blood pressure_Yes
+2,high cholesterol_No
+2,comorbidity_count_3+
+3,age_group_18-24
+3,age_group_45-54
+3,age_group_55-64
+3,age_group_65+
+3,race_ethnicity_Black
+3,race_ethnicity_Hispanic
+3,race_ethnicity_Other
+3,education_level_<HS
+3,income_group_100-200k
+3,bmi_category_Normal
+3,bmi_category_Obese
+3,bmi_category_Underweight
+3,general_health_Good/better
+3,poor_physical_health_0
+3,poor_physical_health_14+
+3,smoking_status_Every day
+3,alcohol use_Yes
+3,high blood pressure_No
+3,high cholesterol_No
+3,comorbidity_count_3+
+4,age_group_18-24
+4,age_group_35-44
+4,age_group_45-54
+4,age_group_55-64
+4,age_group_65+
+4,race_ethnicity_Black
+4,race_ethnicity_Hispanic
+4,race_ethnicity_Other
+4,education_level_<HS
+4,income_group_200k+
+4,health_insurance_Not insured
+4,bmi_category_Normal
+4,bmi_category_Obese
+4,bmi_category_Underweight
+4,general_health_Good/better
+4,smoking_status_Some days
+4,alcohol use_Yes
+4,high blood pressure_No
+4,high cholesterol_No
+4,comorbidity_count_3+
+5,age_group_18-24
+5,age_group_25-34
+5,age_group_45-54
+5,age_group_55-64
+5,age_group_65+
+5,race_ethnicity_Black
+5,race_ethnicity_Hispanic
+5,education_level_<HS
+5,income_group_100-200k
+5,health_insurance_Not insured
+5,bmi_category_Normal
+5,bmi_category_Obese
+5,bmi_category_Underweight
+5,general_health_Good/better
+5,poor_physical_health_1-13
+5,smoking_status_Every day
+5,alcohol use_Yes
+5,high blood pressure_No
+5,high cholesterol_No
+5,comorbidity_count_3+

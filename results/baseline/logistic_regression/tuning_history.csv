@@ -1,0 +1,17 @@
+Model,Parameters,Mean F1,F1 Std
+Logistic Regression,"{'C': 0.01, 'penalty': 'l1', 'solver': 'liblinear'}",0.464990465491835,0.014216714958779443
+Logistic Regression,"{'C': 0.01, 'penalty': 'l1', 'solver': 'saga'}",0.45808712978472316,0.017982983133961995
+Logistic Regression,"{'C': 0.01, 'penalty': 'l2', 'solver': 'liblinear'}",0.4825919528112482,0.022097141456118744
+Logistic Regression,"{'C': 0.01, 'penalty': 'l2', 'solver': 'saga'}",0.47994227267926026,0.01996252593568521
+Logistic Regression,"{'C': 0.1, 'penalty': 'l1', 'solver': 'liblinear'}",0.4767675240653915,0.017393727178074875
+Logistic Regression,"{'C': 0.1, 'penalty': 'l1', 'solver': 'saga'}",0.47676778467012976,0.0192787771898602
+Logistic Regression,"{'C': 0.1, 'penalty': 'l2', 'solver': 'liblinear'}",0.48268328072036476,0.018310984959397748
+Logistic Regression,"{'C': 0.1, 'penalty': 'l2', 'solver': 'saga'}",0.48479630503210014,0.01493761291236088
+Logistic Regression,"{'C': 1, 'penalty': 'l1', 'solver': 'liblinear'}",0.48177110993376254,0.014107310867723663
+Logistic Regression,"{'C': 1, 'penalty': 'l1', 'solver': 'saga'}",0.4811803590395735,0.013740681255452919
+Logistic Regression,"{'C': 1, 'penalty': 'l2', 'solver': 'liblinear'}",0.4817255306078554,0.014391500800694231
+Logistic Regression,"{'C': 1, 'penalty': 'l2', 'solver': 'saga'}",0.48342239723380753,0.011931792395652856
+Logistic Regression,"{'C': 10, 'penalty': 'l1', 'solver': 'liblinear'}",0.48320169173281113,0.011193785720501392
+Logistic Regression,"{'C': 10, 'penalty': 'l1', 'solver': 'saga'}",0.48320169173281113,0.011193785720501392
+Logistic Regression,"{'C': 10, 'penalty': 'l2', 'solver': 'liblinear'}",0.4830068813535696,0.011116794618299121
+Logistic Regression,"{'C': 10, 'penalty': 'l2', 'solver': 'saga'}",0.4830068813535696,0.011116794618299121
