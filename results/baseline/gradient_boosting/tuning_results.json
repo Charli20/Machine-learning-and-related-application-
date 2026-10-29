@@ -1,0 +1,11 @@
+{
+  "Model": "Gradient Boosting",
+  "Best Parameters": {
+    "n_estimators": 100,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "subsample": 1.0,
+    "min_samples_split": 2
+  },
+  "Best CV F1": 0.47436576540626013
+}

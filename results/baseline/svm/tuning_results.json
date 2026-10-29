@@ -1,0 +1,9 @@
+{
+  "Model": "SVM",
+  "Best Parameters": {
+    "kernel": "rbf",
+    "C": 0.1,
+    "gamma": 0.001
+  },
+  "Best CV F1": 0.4671477789150102
+}

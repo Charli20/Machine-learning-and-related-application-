@@ -1,0 +1,171 @@
+{
+  "Model": "KNN",
+  "Best Parameters": {
+    "n_neighbors": 9,
+    "p": 1,
+    "weights": "uniform"
+  },
+  "Best CV F1": 0.3405109173481718,
+  "Search History": [
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 3,
+        "p": 1,
+        "weights": "uniform"
+      },
+      "Mean F1": 0.3200984339137008,
+      "F1 Std": 0.034825540124935196
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 3,
+        "p": 1,
+        "weights": "distance"
+      },
+      "Mean F1": 0.30958664988945567,
+      "F1 Std": 0.03271604466413606
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 3,
+        "p": 2,
+        "weights": "uniform"
+      },
+      "Mean F1": 0.3200984339137008,
+      "F1 Std": 0.034825540124935196
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 3,
+        "p": 2,
+        "weights": "distance"
+      },
+      "Mean F1": 0.3108618832300244,
+      "F1 Std": 0.031062337118793176
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 5,
+        "p": 1,
+        "weights": "uniform"
+      },
+      "Mean F1": 0.3216529118598458,
+      "F1 Std": 0.010522810516496018
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 5,
+        "p": 1,
+        "weights": "distance"
+      },
+      "Mean F1": 0.31202980990887874,
+      "F1 Std": 0.013632211835369694
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 5,
+        "p": 2,
+        "weights": "uniform"
+      },
+      "Mean F1": 0.3216529118598458,
+      "F1 Std": 0.010522810516496018
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 5,
+        "p": 2,
+        "weights": "distance"
+      },
+      "Mean F1": 0.31610866552539335,
+      "F1 Std": 0.012555683836776195
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 7,
+        "p": 1,
+        "weights": "uniform"
+      },
+      "Mean F1": 0.33357051689815503,
+      "F1 Std": 0.02223044517781855
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 7,
+        "p": 1,
+        "weights": "distance"
+      },
+      "Mean F1": 0.325594218103398,
+      "F1 Std": 0.01592369547842967
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 7,
+        "p": 2,
+        "weights": "uniform"
+      },
+      "Mean F1": 0.33357051689815503,
+      "F1 Std": 0.02223044517781855
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 7,
+        "p": 2,
+        "weights": "distance"
+      },
+      "Mean F1": 0.3270594181457224,
+      "F1 Std": 0.016548332550390284
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 9,
+        "p": 1,
+        "weights": "uniform"
+      },
+      "Mean F1": 0.3405109173481718,
+      "F1 Std": 0.018634007988649372
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 9,
+        "p": 1,
+        "weights": "distance"
+      },
+      "Mean F1": 0.3301499879608329,
+      "F1 Std": 0.028356638017832083
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 9,
+        "p": 2,
+        "weights": "uniform"
+      },
+      "Mean F1": 0.3405109173481718,
+      "F1 Std": 0.018634007988649372
+    },
+    {
+      "Model": "KNN",
+      "Parameters": {
+        "n_neighbors": 9,
+        "p": 2,
+        "weights": "distance"
+      },
+      "Mean F1": 0.33036295382365777,
+      "F1 Std": 0.028351441954259163
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "hypothesis": "Training label noise may reduce diabetes case detection.",
+  "training_records": 4507,
+  "held_out_test_records": 1127,
+  "noise_levels": [
+    0.0,
+    0.1,
+    0.15,
+    0.25,
+    0.3,
+    0.4,
+    0.5
+  ],
+  "noise_seeds": [
+    42
+  ],
+  "noise_sampling": "uniform without replacement; nested subsets within seed/fold",
+  "flip_count": "floor(noise_rate * fold_training_size)",
+  "cv": {
+    "n_splits": 5,
+    "shuffle": true,
+    "random_state": 42
+  },
+  "gradient_boosting": {
+    "n_estimators": 100,
+    "learning_rate": 0.05,
+    "max_depth": 3,
+    "subsample": 1.0,
+    "min_samples_split": 2,
+    "random_state": 42
+  },
+  "validation_labels": "original clean labels",
+  "test_set_used": false,
+  "rfe": {
+    "estimator": "LogisticRegression",
+    "solver": "liblinear",
+    "max_iter": 1000,
+    "n_features_to_select": 20,
+    "step": 1,
+    "random_state": 42
+  },
+  "smote": {
+    "random_state": 42,
+    "k_neighbors": 5
+  },
+  "package_versions": {
+    "numpy": "2.4.6",
+    "pandas": "2.2.2",
+    "scikit-learn": "1.6.1",
+    "imbalanced-learn": "0.13.0",
+    "joblib": "1.4.2",
+    "matplotlib": "3.10.0"
+  }
+}

@@ -1,0 +1,9 @@
+{
+  "Model": "Logistic Regression",
+  "Best Parameters": {
+    "penalty": "l2",
+    "C": 0.1,
+    "solver": "saga"
+  },
+  "Best CV F1": 0.48479630503210014
+}

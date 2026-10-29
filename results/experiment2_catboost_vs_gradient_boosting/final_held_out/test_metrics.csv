@@ -1,0 +1,2 @@
+Model,Accuracy,Precision,Recall,F1-score,AUROC,PR-AUC,Balanced accuracy,Specificity,Test respondents,True negatives,False positives,False negatives,True positives
+CatBoost,0.738243123336291,0.3869346733668342,0.751219512195122,0.5107794361525705,0.7973043754298714,0.44808754078418006,0.7432887148828105,0.735357917570499,1127,678,244,51,154

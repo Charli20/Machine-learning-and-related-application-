@@ -1,0 +1,17 @@
+Model,Parameters,Mean F1,F1 Std
+KNN,"{'n_neighbors': 3, 'p': 1, 'weights': 'uniform'}",0.33046930547893566,0.030153706095516732
+KNN,"{'n_neighbors': 3, 'p': 1, 'weights': 'distance'}",0.3010438554247318,0.037512884371506634
+KNN,"{'n_neighbors': 3, 'p': 2, 'weights': 'uniform'}",0.3434756971294,0.030075039365060587
+KNN,"{'n_neighbors': 3, 'p': 2, 'weights': 'distance'}",0.31438987530892265,0.03231701734296206
+KNN,"{'n_neighbors': 5, 'p': 1, 'weights': 'uniform'}",0.3497151994492417,0.012154173128450737
+KNN,"{'n_neighbors': 5, 'p': 1, 'weights': 'distance'}",0.3109136708022378,0.006978452825171567
+KNN,"{'n_neighbors': 5, 'p': 2, 'weights': 'uniform'}",0.3639228942765863,0.014844877899923737
+KNN,"{'n_neighbors': 5, 'p': 2, 'weights': 'distance'}",0.3292838471333649,0.01451811933256027
+KNN,"{'n_neighbors': 7, 'p': 1, 'weights': 'uniform'}",0.365228664044159,0.015539227462737601
+KNN,"{'n_neighbors': 7, 'p': 1, 'weights': 'distance'}",0.3249204401679307,0.02100278777707176
+KNN,"{'n_neighbors': 7, 'p': 2, 'weights': 'uniform'}",0.376893239205566,0.025312328806546828
+KNN,"{'n_neighbors': 7, 'p': 2, 'weights': 'distance'}",0.3358902071098949,0.024450722059002363
+KNN,"{'n_neighbors': 9, 'p': 1, 'weights': 'uniform'}",0.3818479512998043,0.01811989397423606
+KNN,"{'n_neighbors': 9, 'p': 1, 'weights': 'distance'}",0.3295163209832475,0.03715149126546701
+KNN,"{'n_neighbors': 9, 'p': 2, 'weights': 'uniform'}",0.3835013403711699,0.017490102172288864
+KNN,"{'n_neighbors': 9, 'p': 2, 'weights': 'distance'}",0.33906438651027276,0.024119282719795694

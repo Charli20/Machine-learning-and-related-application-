@@ -1,0 +1,17 @@
+Model,Parameters,Mean F1,F1 Std
+CatBoost,"{'depth': 3, 'iterations': 100, 'l2_leaf_reg': 3, 'learning_rate': 0.05}",0.47933365917236886,0.02006964515651956
+CatBoost,"{'depth': 3, 'iterations': 100, 'l2_leaf_reg': 3, 'learning_rate': 0.1}",0.4622698250020368,0.021298163460924485
+CatBoost,"{'depth': 3, 'iterations': 100, 'l2_leaf_reg': 5, 'learning_rate': 0.05}",0.4723011205160841,0.022448660244237674
+CatBoost,"{'depth': 3, 'iterations': 100, 'l2_leaf_reg': 5, 'learning_rate': 0.1}",0.46516829503906676,0.02077876454911971
+CatBoost,"{'depth': 3, 'iterations': 200, 'l2_leaf_reg': 3, 'learning_rate': 0.05}",0.4654091296589666,0.02271334561545378
+CatBoost,"{'depth': 3, 'iterations': 200, 'l2_leaf_reg': 3, 'learning_rate': 0.1}",0.45150419034041367,0.028811256870680618
+CatBoost,"{'depth': 3, 'iterations': 200, 'l2_leaf_reg': 5, 'learning_rate': 0.05}",0.46810249278020033,0.02285560231393513
+CatBoost,"{'depth': 3, 'iterations': 200, 'l2_leaf_reg': 5, 'learning_rate': 0.1}",0.44932736718836797,0.024350782838675002
+CatBoost,"{'depth': 5, 'iterations': 100, 'l2_leaf_reg': 3, 'learning_rate': 0.05}",0.46984269723960753,0.017618568113610886
+CatBoost,"{'depth': 5, 'iterations': 100, 'l2_leaf_reg': 3, 'learning_rate': 0.1}",0.45182435738077603,0.024473367925785118
+CatBoost,"{'depth': 5, 'iterations': 100, 'l2_leaf_reg': 5, 'learning_rate': 0.05}",0.46898932444391905,0.01657927354090121
+CatBoost,"{'depth': 5, 'iterations': 100, 'l2_leaf_reg': 5, 'learning_rate': 0.1}",0.4587533457573545,0.01806555005022996
+CatBoost,"{'depth': 5, 'iterations': 200, 'l2_leaf_reg': 3, 'learning_rate': 0.05}",0.45797281250521626,0.01891317590590998
+CatBoost,"{'depth': 5, 'iterations': 200, 'l2_leaf_reg': 3, 'learning_rate': 0.1}",0.4377903933256747,0.027660385383951776
+CatBoost,"{'depth': 5, 'iterations': 200, 'l2_leaf_reg': 5, 'learning_rate': 0.05}",0.45913191262945013,0.016995607746648166
+CatBoost,"{'depth': 5, 'iterations': 200, 'l2_leaf_reg': 5, 'learning_rate': 0.1}",0.43206423236642816,0.023129034154569246

@@ -1,0 +1,804 @@
+{
+  "Model": "Decision Tree",
+  "Best Parameters": {
+    "criterion": "entropy",
+    "max_depth": 5,
+    "min_samples_leaf": 1,
+    "min_samples_split": 2
+  },
+  "Best CV F1": 0.43389330573524365,
+  "Search History": [
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 3,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.4169634903715472,
+      "F1 Std": 0.016457702868652484
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 3,
+        "min_samples_leaf": 1,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.4169634903715472,
+      "F1 Std": 0.016457702868652484
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 3,
+        "min_samples_leaf": 1,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.4169634903715472,
+      "F1 Std": 0.016457702868652484
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 3,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.4169634903715472,
+      "F1 Std": 0.016457702868652484
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 3,
+        "min_samples_leaf": 2,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.4169634903715472,
+      "F1 Std": 0.016457702868652484
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 3,
+        "min_samples_leaf": 2,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.4169634903715472,
+      "F1 Std": 0.016457702868652484
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 3,
+        "min_samples_leaf": 4,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.4169634903715472,
+      "F1 Std": 0.016457702868652484
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 3,
+        "min_samples_leaf": 4,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.4169634903715472,
+      "F1 Std": 0.016457702868652484
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 3,
+        "min_samples_leaf": 4,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.4169634903715472,
+      "F1 Std": 0.016457702868652484
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.42578460469446167,
+      "F1 Std": 0.028708556791020426
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.42578460469446167,
+      "F1 Std": 0.028708556791020426
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.4262067563911434,
+      "F1 Std": 0.029138083770508277
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 5,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.42534747672197,
+      "F1 Std": 0.02968930389666405
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 5,
+        "min_samples_leaf": 2,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.42534747672197,
+      "F1 Std": 0.02968930389666405
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 5,
+        "min_samples_leaf": 2,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.4257696284186518,
+      "F1 Std": 0.030110970215070993
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 5,
+        "min_samples_leaf": 4,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.42604820766449797,
+      "F1 Std": 0.03005955379028551
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 5,
+        "min_samples_leaf": 4,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.42604820766449797,
+      "F1 Std": 0.03005955379028551
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 5,
+        "min_samples_leaf": 4,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.42604820766449797,
+      "F1 Std": 0.03005955379028551
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 10,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.4064391848336091,
+      "F1 Std": 0.030239616106489422
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 10,
+        "min_samples_leaf": 1,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.40404580147546626,
+      "F1 Std": 0.030111591853885032
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 10,
+        "min_samples_leaf": 1,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.41190654783532804,
+      "F1 Std": 0.03237170658585738
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 10,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.4034973102537852,
+      "F1 Std": 0.03167174840589831
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 10,
+        "min_samples_leaf": 2,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.40503051252863703,
+      "F1 Std": 0.029299105227539233
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 10,
+        "min_samples_leaf": 2,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.4048647125872097,
+      "F1 Std": 0.03526225396463131
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 10,
+        "min_samples_leaf": 4,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.4070224162674501,
+      "F1 Std": 0.03290375140900229
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 10,
+        "min_samples_leaf": 4,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.4070224162674501,
+      "F1 Std": 0.03290375140900229
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": 10,
+        "min_samples_leaf": 4,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.40801226944278407,
+      "F1 Std": 0.03581877294059661
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.3555062706628457,
+      "F1 Std": 0.03380337021446869
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.3540997317932114,
+      "F1 Std": 0.031022787756003343
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.36844120784850365,
+      "F1 Std": 0.029666897382534915
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": null,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.3618147925179951,
+      "F1 Std": 0.024064690239592207
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": null,
+        "min_samples_leaf": 2,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.36260843277440324,
+      "F1 Std": 0.02696211255234373
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": null,
+        "min_samples_leaf": 2,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.36674038716944896,
+      "F1 Std": 0.03147189762058351
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.37479990511063066,
+      "F1 Std": 0.03198482326613695
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.37479990511063066,
+      "F1 Std": 0.03198482326613695
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "gini",
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.3782218520041991,
+      "F1 Std": 0.031866272976728255
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.4180350285962312,
+      "F1 Std": 0.01587318700795956
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "min_samples_leaf": 1,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.4180350285962312,
+      "F1 Std": 0.01587318700795956
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "min_samples_leaf": 1,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.4180350285962312,
+      "F1 Std": 0.01587318700795956
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.4180350285962312,
+      "F1 Std": 0.01587318700795956
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "min_samples_leaf": 2,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.4180350285962312,
+      "F1 Std": 0.01587318700795956
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "min_samples_leaf": 2,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.4180350285962312,
+      "F1 Std": 0.01587318700795956
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "min_samples_leaf": 4,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.4180350285962312,
+      "F1 Std": 0.01587318700795956
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "min_samples_leaf": 4,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.4180350285962312,
+      "F1 Std": 0.01587318700795956
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 3,
+        "min_samples_leaf": 4,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.4180350285962312,
+      "F1 Std": 0.01587318700795956
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.43389330573524365,
+      "F1 Std": 0.02146986419413692
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.43389330573524365,
+      "F1 Std": 0.02146986419413692
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 5,
+        "min_samples_leaf": 1,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.43389330573524365,
+      "F1 Std": 0.02146986419413692
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 5,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.4333175207633597,
+      "F1 Std": 0.022554996937923243
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 5,
+        "min_samples_leaf": 2,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.4333175207633597,
+      "F1 Std": 0.022554996937923243
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 5,
+        "min_samples_leaf": 2,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.4333175207633597,
+      "F1 Std": 0.022554996937923243
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 5,
+        "min_samples_leaf": 4,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.4333175207633597,
+      "F1 Std": 0.022554996937923243
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 5,
+        "min_samples_leaf": 4,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.4333175207633597,
+      "F1 Std": 0.022554996937923243
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 5,
+        "min_samples_leaf": 4,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.4333175207633597,
+      "F1 Std": 0.022554996937923243
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.40805221571210665,
+      "F1 Std": 0.033794499455607724
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "min_samples_leaf": 1,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.409718237325149,
+      "F1 Std": 0.03356342905961532
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "min_samples_leaf": 1,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.41193358050426854,
+      "F1 Std": 0.03539720015161626
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.410773527516996,
+      "F1 Std": 0.033362099883656675
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "min_samples_leaf": 2,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.4119738762773816,
+      "F1 Std": 0.034027533567816
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "min_samples_leaf": 2,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.41146159617576494,
+      "F1 Std": 0.03549038924941634
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "min_samples_leaf": 4,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.40866867833057824,
+      "F1 Std": 0.03220943332754211
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "min_samples_leaf": 4,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.40866867833057824,
+      "F1 Std": 0.03220943332754211
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": 10,
+        "min_samples_leaf": 4,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.40830961124339604,
+      "F1 Std": 0.03322129585774932
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.3617841835309177,
+      "F1 Std": 0.028035869785008286
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.35785073518812327,
+      "F1 Std": 0.023749897590519917
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": null,
+        "min_samples_leaf": 1,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.36855251516457244,
+      "F1 Std": 0.03040127187307109
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": null,
+        "min_samples_leaf": 2,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.36130723554407373,
+      "F1 Std": 0.024284045528701136
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": null,
+        "min_samples_leaf": 2,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.3646328018020969,
+      "F1 Std": 0.02433674169210987
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": null,
+        "min_samples_leaf": 2,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.3659785246138942,
+      "F1 Std": 0.03577217358352489
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "min_samples_split": 2
+      },
+      "Mean F1": 0.37766027078646863,
+      "F1 Std": 0.023260044478174837
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "min_samples_split": 5
+      },
+      "Mean F1": 0.37766027078646863,
+      "F1 Std": 0.023260044478174837
+    },
+    {
+      "Model": "Decision Tree",
+      "Parameters": {
+        "criterion": "entropy",
+        "max_depth": null,
+        "min_samples_leaf": 4,
+        "min_samples_split": 10
+      },
+      "Mean F1": 0.379479644558815,
+      "F1 Std": 0.025687599470962684
+    }
+  ]
+}

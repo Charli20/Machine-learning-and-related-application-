@@ -1,0 +1,21 @@
+feature
+age_group_18-24
+age_group_25-34
+age_group_35-44
+age_group_55-64
+age_group_65+
+race_ethnicity_Black
+race_ethnicity_Hispanic
+race_ethnicity_Other
+education_level_<HS
+income_group_100-200k
+income_group_200k+
+bmi_category_Normal
+bmi_category_Obese
+bmi_category_Underweight
+general_health_Good/better
+smoking_status_Every day
+alcohol use_Yes
+high blood pressure_No
+high cholesterol_No
+comorbidity_count_3+
