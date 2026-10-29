@@ -30,7 +30,7 @@ Run the notebooks in this order:
 3. `EXPERIMENT1.ipynb` - Comparing RFE20, No RFE and RFECV.
 4. `Experiment2_CatBoost_vs_GradientBoosting.ipynb` - Comparing CatBoost with baseline Gradient Boosting.
 5. `Experiment3_BalancedRandomForest_vs_RandomForest.ipynb` - Comparing Random Forest without SMOTE, Random Forest with SMOTE and Balanced Random Forest.
-6. `hypothesis 2.ipynb` - Checking how changing some training labels affects Gradient Boosting.
+6. `hypothesis 2.ipynb` 
 
 Run the cells in each notebook from top to bottom. After finishing the baseline, copy the saved split as explained below before running Experiments 2 and 3 and Hypothesis 2.
 
