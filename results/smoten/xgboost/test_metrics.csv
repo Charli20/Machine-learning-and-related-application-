@@ -1,2 +1,0 @@
-Model,Source,Accuracy,Precision,Recall,F1-score,F2-score,Balanced Accuracy,AUROC,PR-AUC,Average Precision (AP),Test respondents,Correct predictions,Wrong predictions,Correct (%),Wrong (%),True negatives,False positives,False negatives,True positives
-XGBoost,Our Model,0.7204968944099379,0.3596938775510204,0.6878048780487804,0.4723618090452261,0.5816831683168316,0.7077853023649542,0.7681921591450187,0.4003995164342107,0.40022330075039275,1127,812,315,72.04968944099379,27.950310559006212,671,251,64,141

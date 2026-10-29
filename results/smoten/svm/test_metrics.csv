@@ -1,2 +1,0 @@
-Model,Source,Accuracy,Precision,Recall,F1-score,F2-score,Balanced Accuracy,AUROC,PR-AUC,Average Precision (AP),Test respondents,Correct predictions,Wrong predictions,Correct (%),Wrong (%),True negatives,False positives,False negatives,True positives
-SVM,Our Model,0.7018633540372671,0.35412026726057905,0.775609756097561,0.48623853211009177,0.6264775413711584,0.730538066768954,0.7895270091529549,0.4192299685496601,0.4300368126364288,1127,791,336,70.1863354037267,29.81366459627329,632,290,46,159

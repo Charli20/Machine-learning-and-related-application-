@@ -1,2 +1,0 @@
-Model,Source,Accuracy,Precision,Recall,F1-score,F2-score,Balanced Accuracy,AUROC,PR-AUC,Average Precision (AP),Test respondents,Correct predictions,Wrong predictions,Correct (%),Wrong (%),True negatives,False positives,False negatives,True positives
-Logistic Regression,Our Model,0.7338065661047027,0.37851662404092073,0.7219512195121951,0.4966442953020134,0.611065235342692,0.7291968678905878,0.790381461298344,0.4439066912288868,0.4319468758480205,1127,827,300,73.38065661047027,26.619343389529725,679,243,57,148
